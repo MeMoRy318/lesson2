@@ -1,0 +1,64 @@
+body{
+    box-sizing: border-box;
+}
+.targeta{
+    background: #fda901;
+    width:150px;
+    height:150px;
+    margin:40px;
+    overflow: hidden;
+    border: black solid 1px;
+    box-shadow: black 10px 10px;
+}
+.targetb{
+    background: #fda901;
+    width:150px;
+    height:150px;
+    margin:40px;
+    overflow: hidden;
+    border: black solid 1px;
+    box-shadow: rgb(70 70 70) 10px 10px 3px;
+}
+.targetc{
+    background: #fda901;
+    width:150px;
+    height:150px;
+    margin:40px;
+    overflow: hidden;
+    border: black solid 1px;
+    box-shadow: rgb(70 70 70) 10px 10px 4px 4px;
+}
+.targetd {
+    background: #fda901;
+    width:150px;
+    height:150px;
+    margin:40px;
+    overflow: hidden;
+    border: black solid 1px;
+    box-shadow: rgb(158 158 158) 10px 10px 4px 4px;
+}
+.targete{
+    background: #fda901;
+    width:150px;
+    height:150px;
+    margin:40px;
+    overflow: hidden;
+    border: black solid 1px;
+    border-radius: 3px;
+    box-shadow: rgb(70 70 70) 10px 10px 4px 4px;
+}
+.targetf{
+    background: #fda901;
+    width:150px;
+    height:150px;
+    margin:40px;
+    overflow: hidden;
+    border: black solid 1px;
+    border-radius: 3px;
+    box-shadow: rgb(158 158 158) 10px 10px 4px 4px;
+}
+.target1{
+    padding:65px;
+    width: 20px;
+    height: 20px;
+}
